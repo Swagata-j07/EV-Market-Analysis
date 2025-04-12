@@ -9,3 +9,7 @@ USA-based automotive giant specializing in electric vehicles (EVs). Market share
     - Established domestic (Tata, Mahindra) and international (Tesla, Hyundai) players dominate the market.
   - Affordability
     - Indian buyers prioritize affordability and running costs, making premium EV models harder to sell.
+  - EV Charging Station
+    - Finding suitable locations with facing no  limited EV charging stations for their entry and expansion.
+   
+## Table Contents: 
